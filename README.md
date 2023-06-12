@@ -4,7 +4,7 @@
     Check out SCAPI, Base64PasswordManager and sPYracy for my best repos! I have loads more if thats not enough!
 </h2>
 
-<img src="https://github.com/GogleSiteBank/sPYracy/raw/main/Image.png?raw=true">
+<img src="https://github.com/GogleSiteBank/sPYracy/raw/main/Image.png?raw=true" width="250">
 <a href="https://github.com/goglesitebank/spyracy">
 </a>
 </img>
