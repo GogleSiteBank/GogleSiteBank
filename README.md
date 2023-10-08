@@ -1,4 +1,4 @@
-<h1 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Hello, I'm Connor, Check out my repos!</h1>
+<h1 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Hello, I'm sPYracy, Check out my repos!</h1>
 
 <h2 style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
     Check out SCAPI, Base64PasswordManager and sPYracy for my best repos! I have loads more if thats not enough!
