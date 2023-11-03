@@ -2,10 +2,10 @@
 
 <h2 style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
     Hi, welcome to my GitHub. I am currently working on a few things:
-    <ol type=1>
-        <a href="https://github.com/goglesitebank/spyracy">sPYracy (GUI)</a><br>
-        <a href="https://github.com/GogleSiteBank/sPYracy-TUI">sPYracy (TUI)</a><br>
-        <a href="https://github.com/GogleSiteBank/b64pswdmgr">b64pswdmgr (JAVA)</a>
+    <ol type="1">
+        <li><a href="https://github.com/goglesitebank/spyracy">sPYracy (GUI)</a><br></li>
+        <li><a href="https://github.com/GogleSiteBank/sPYracy-TUI">sPYracy (TUI)</a><br></li>
+        <li><a href="https://github.com/GogleSiteBank/b64pswdmgr">b64pswdmgr (JAVA)</a></li>
     </ol>
 </h2>
 
